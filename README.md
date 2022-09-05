@@ -1,1 +1,2 @@
 # slotsDICT
+# slotsSUPER
